@@ -8,8 +8,8 @@ Pattern | Group | Languages | Implementation | Real Project
 --- | --- | --- | --- | --- 
 Simple Factory | Creational | PHP | ✔ | 🚧 
 Factory Method | Creational | PHP | ✔ | 🚧
-Abstract Factory | Creational | PHP, GO | ✔ | 🚧
-Builder | Creational | PHP, GO | 🚧 | 🚧
+Abstract Factory | Creational | PHP | ✔ | 🚧
+Builder | Creational | PHP | ✔ | 🚧
 Prototype | Creational | PHP, GO | 🚧 | 🚧
 Singleton | Creational | PHP, GO | 🚧 | 🚧
 Adapter | Structural | PHP, GO | 🚧 | 🚧
